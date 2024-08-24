@@ -1,10 +1,14 @@
-# ROS Actions Example Project
+## ROS Actions Example Project
 
-This repository demonstrates the implementation of a ROS Action Server and Client using Python, specifically for controlling the Unitree A1 quadruped robot.
+This project demonstrates the implementation of a ROS Action Server and Client for the Unitree A1 quadruped robot.
+
+![ROS Actions Example Video](https://github.com/user-attachments/assets/c6a94d01-2173-4042-8416-5f4504569197)
+
 
 ## Overview
 
 This project is designed to work with the Unitree A1 quadruped robot, enabling the robot to perform a predefined action of drawing a square using ROS actions. The action server and client communicate to execute movement commands that control the robot's motion.
+
 
 ## Prerequisites
 
