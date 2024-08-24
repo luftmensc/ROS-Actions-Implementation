@@ -1,0 +1,9 @@
+# Goal
+float32 side_length  # The length of the side of the square (in meters)
+float32 speed        # The linear speed to move the robot (in m/s)
+---
+# Result
+bool success         # Did we complete the square?
+---
+# Feedback
+float32 current_distance_traveled  # How far has the robot traveled so far?
